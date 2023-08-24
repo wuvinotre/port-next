@@ -1,7 +1,6 @@
 import { Metadata } from "next";
 
 import { Providers } from "./providers";
-import { MoonIcon } from "@chakra-ui/icons";
 
 export const metadata: Metadata = {
   title: "Port App",
